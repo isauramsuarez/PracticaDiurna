@@ -1,4 +1,4 @@
-#código de isaura, lo tiene en el gibhub del lider en la rama master
+#código de juan, lo tiene en el gibhub del lider en la rama master
 #menu de opciones
 
 print("Estilos y Belleza")
